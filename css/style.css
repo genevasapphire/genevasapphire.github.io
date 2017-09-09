@@ -181,7 +181,7 @@ width: 100%;
 /*-- //banner --*/  
 /*-- modal-basic --*/
 .modal{
-    background: url(../images/walkingascii.gif) #000000 fixed ! important;
+    background: #000000 fixed ! important;
 	background-size:cover; 
 	padding: 0 !important; 
 }
