@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: 
+Allow: /robots.txt
+
+User-Agent: Googlebot
+Allow: /robots.txt
+
+User-Agent: Googlebot-Mobile
+Allow: /robots.txt
+
+User-Agent: Mediapartners-Google
+Allow: /robots.txt
+
+Sitemap: https://genevasapphire.github.io/sitemap.xml
